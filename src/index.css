@@ -3,3 +3,15 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.all{
+  color: red;
+  width: 90%;
+}
+
+#root{
+  display: inline-block;
+}
+#root2{
+  display: inline-block;
+}
